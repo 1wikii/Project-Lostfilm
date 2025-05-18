@@ -1,7 +1,7 @@
 # LosFilm Application
 
 <p align="center">
-  <img src="https://github.com/1wikii/Project-Lostfilm/blob/master/app/src/main/res/drawable/apk_logo.png" 
+  <img src="Snapshots/apk_logo.png" 
     width="350" 
     title="hover text">
 
