@@ -1,7 +1,7 @@
 # LosFilm Application
 
 <p align="center">
-  <img src="https://github.com/1wikii/Project-LosFilm/blob/master/app/src/main/res/drawable/apk_logo.png" 
+  <img src="https://github.com/1wikii/Project-Lostfilm/blob/master/app/src/main/res/drawable/apk_logo.png" 
     width="350" 
     title="hover text">
 
@@ -56,13 +56,13 @@ LosFilm is a mobile based application that has a lot of useful features. LosFilm
 ## Snapshots
 
 <p align="center">
-  <img src="https://github.com/1wikii/Project-LosFilm/blob/master/Snapshots/src1.jpg" 
+  <img src="https://github.com/1wikii/Project-Lostfilm/blob/main/Snapshots/src1.jpg" 
     width="350" 
     title="hover text">
-  <img src="https://github.com/1wikii/Project-LosFilm/blob/master/Snapshots/src2.jpg" 
+  <img src="https://github.com/1wikii/Project-Lostfilm/blob/main/Snapshots/src1.jpg" 
     width="350" 
     title="hover text">
-  <img src="https://github.com/1wikii/Project-LosFilm/blob/master/Snapshots/src3.jpg" 
+  <img src="https://github.com/1wikii/Project-Lostfilm/blob/main/Snapshots/src1.jpg" 
     width="350" 
     title="hover text">
 </p>
